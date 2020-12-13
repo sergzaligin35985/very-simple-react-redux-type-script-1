@@ -1,0 +1,1 @@
+npm i -D @types/react @types/react-router-config @types/react-dom @types/react-redux @types/react @types/react-router-dom @types/redux-devtools-extension

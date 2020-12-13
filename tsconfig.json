@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist",
+      "strict": true,
+      "target": "es2015",
+      "module": "es2015",
+      "jsx": "react",
+      "rootDir": "src",
+      "allowSyntheticDefaultImports": true,
+      "noImplicitAny": true,
+      "experimentalDecorators": true,
+      "preserveConstEnums": true,
+      "allowJs": true,
+      "sourceMap": true,
+      "moduleResolution": "Node"
+    },
+    "include": [
+      "src/**/*"
+    ],
+    "exclude": [
+      "__tests__",
+      "index.android.js",
+      "index.ios.js",
+      "build",
+      "node_modules"
+    ],
+  }
